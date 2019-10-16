@@ -1,0 +1,68 @@
+{
+  "peaks" : [
+    {
+      "name": "Mount Everest",
+      "heightM": 8848
+    },
+    {
+      "name": "K2",
+      "heightM": 8614
+    },
+    {
+      "name": "Gangkar Punsum",
+      "heightM": 7570
+    },
+    {
+      "name": "Volcán Chimborazo",
+      "heightM": 6267
+    },
+    {
+      "name": "Mount Kenya",
+      "heightM": 5199
+    },
+    {
+      "name": "Monte Rosa",
+      "heightM": 4634
+    },
+    {
+      "name": "Volcán Barú",
+      "heightM": 3474
+    },
+    {
+      "name": "Korab",
+      "heightM": 2764
+    },
+ {
+   "name": "Mount Kosciuszko",
+   "heightM": 2228
+ },
+ {
+   "name": "Mont Richard-Molard",
+   "heightM": 1752
+ },
+ {
+   "name": "Hálditšohkka",
+   "heightM": 1324
+ },
+ {
+   "name": "Mount Saint Catherine",
+   "heightM": 840
+ },
+ {
+   "name": "Mount Sage",
+   "heightM": 521
+ },
+ {
+   "name": "Dingli Cliffs",
+   "heightM": 253
+  },
+ {
+   "name": "Møllehøj",
+   "heightM": 171
+ },
+ {
+   "name": "Mount Alvernia",
+   "heightM": 63
+ }
+]
+}
